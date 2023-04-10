@@ -1,6 +1,8 @@
 # TextGenWebUI-Colab
 Text Generation WebUI via Vicuna or Alpaca in google colaboratory
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntfargo/TextGenWebUI-Colab/blob/main/alpaca_vicuna_webui.ipynb)
+
 ## Text Generation Web UI
 [https://github.com/oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 
