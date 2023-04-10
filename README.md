@@ -6,4 +6,5 @@ Text Generation WebUI via Vicuna or Alpaca in google colaboratory
 
 ## Model
 https://huggingface.co/4bit/gpt4-x-alpaca-13b-native-4bit-128g-cuda 
+
 https://huggingface.co/4bit/vicuna-13b-GPTQ-4bit-128g
